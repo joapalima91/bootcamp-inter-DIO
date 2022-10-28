@@ -1,3 +1,4 @@
+//criando classe Pessoa
 const pessoa = {
     nome: 'João Paulo Lima',
     idade: 31,
