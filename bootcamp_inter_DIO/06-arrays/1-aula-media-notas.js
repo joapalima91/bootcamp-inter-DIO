@@ -12,4 +12,8 @@ for (let i = 0; i < notas.length; i++) {
 }
 
 const media = soma / notas.length;
+// imprime a média 
 console.log(media);
+
+//impreime o array com as notas
+console.log(notas);
